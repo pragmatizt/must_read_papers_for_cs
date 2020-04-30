@@ -4,4 +4,4 @@
 **3.** [Why Philosophers Should Care About Computational Complexity](https://www.scottaaronson.com/papers/philos.pdf) <br>
 **4.** [The hitchhiker's guide to successful residential sensing deployments](https://dl.acm.org/doi/10.1145/2070942.2070966) <br>
 **5.** [Intelligent Machinery, by Alan Turing](http://www.alanturing.net/turing_archive/archive/l/l32/L32-001.html)
-**6.** [An Analysis of Subway Networks using Graph Theory and Graph Generation with GraphRNN](http://web.stanford.edu/class/cs224w/project/26421498.pdf)
+**6.** [An Analysis of Subway Networks using Graph Theory and Graph Generation with GraphRNN](http://web.stanford.edu/class/cs224w/project/26421498.pdf) <br>
